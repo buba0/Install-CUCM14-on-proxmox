@@ -6,7 +6,6 @@ Welcome to my guide. I will show you how you can install Cisco Unified Communica
 ### Prerequisites
 - CUCM 14.0.1.11900-132 ISO
     - [Direct download](https://archive.org/download/cucm-14.0/BOOT-UCSInstall_UCOS_14.0.1.11900-132.sha512.iso)
-    - [Torrent (Magnet)](magnet:?xt=urn:btih:U7RPACNLKZ52RG7BGN52RUVAX2R4ZPZK&dn=cucm-14.0&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce)
     - [Torrent (file)](https://archive.org/download/cucm-14.0/cucm-14.0_archive.torrent)
 - Proxmox version 9.0.3 (Latest at the time of writing, I tested it on version 7.4 and it didn't work, not tested on version 8)
 - KVM conversion script, I forked this and modified it a bit so it works now. [Link](https://github.com/buba0/create-cucm-kvm-iso)
