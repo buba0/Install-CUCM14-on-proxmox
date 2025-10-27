@@ -130,3 +130,25 @@ Now you wait untill it's done installing, as I said earlier it might take a long
 - Try to boot
 
 ### Step 5: Done!
+
+# ***`MORE TO COME TO THIS GUIDE STAY TUNED!!!!!!`***
+
+---
+
+## Contact
+If you have any questions, feel free to reach out at [kubab945@gmail.com](mailto:kubab945@gmail.com).
+
+Or open a [GitHub issue](https://github.com/buba0/Install-CUCM14-on-proxmox/issues).
+
+&copy; 2025 [buba.net.pl](https://buba.net.pl)
+
+
+## Star History
+
+<a href="https://www.star-history.com/#buba0/Install-CUCM14-on-proxmox&type=timeline&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=buba0/Install-CUCM14-on-proxmox&type=timeline&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=buba0/Install-CUCM14-on-proxmox&type=timeline&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=buba0/Install-CUCM14-on-proxmox&type=timeline&legend=bottom-right" />
+ </picture>
+</a>
