@@ -135,8 +135,6 @@ More info here: [PDF](images/CUCM%20Setup.pdf)
 
 
 
-# ***`MORE TO COME TO THIS GUIDE STAY TUNED!!!!!!`***
-
 ---
 
 ## Contact
