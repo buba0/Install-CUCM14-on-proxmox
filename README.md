@@ -128,7 +128,12 @@ Now you wait untill it's done installing, as I said earlier it might take a long
 - Detach the ISO from the VM
 - Try to boot
 
-### Step 5: Done!
+### Step 5: Initial installation done!
+### Step 6: Initial configuration:
+I'm not going to go deep in to the initial configuration here as this is just a guide on how to install CUCM on Proxmox. I'm going to tell you the most important thing. TURN ON TFTP SERVICE IN SERVICABILITY.
+More info here: [PDF](images/CUCM%20Setup.pdf)
+
+
 
 # ***`MORE TO COME TO THIS GUIDE STAY TUNED!!!!!!`***
 
@@ -144,10 +149,10 @@ Or open a [GitHub issue](https://github.com/buba0/Install-CUCM14-on-proxmox/issu
 
 ## Star History
 
-<a href="https://www.star-history.com/#buba0/Install-CUCM14-on-proxmox&type=timeline&legend=bottom-right">
+<a href="https://www.star-history.com/#buba0/Install-CUCM14-on-proxmox&type=date&legend=bottom-right">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=buba0/Install-CUCM14-on-proxmox&type=timeline&theme=dark&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=buba0/Install-CUCM14-on-proxmox&type=timeline&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=buba0/Install-CUCM14-on-proxmox&type=timeline&legend=bottom-right" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=buba0/Install-CUCM14-on-proxmox&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=buba0/Install-CUCM14-on-proxmox&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=buba0/Install-CUCM14-on-proxmox&type=date&legend=bottom-right" />
  </picture>
 </a>
