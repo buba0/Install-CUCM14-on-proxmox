@@ -138,7 +138,7 @@ More info here: [PDF](images/CUCM%20Setup.pdf)
 ---
 
 ## Contact
-If you have any questions, feel free to reach out at [kubab945@gmail.com](mailto:kubab945@gmail.com).
+If you have any questions, feel free to reach out at [jakub.bednarczyk@mail.buba.net.pl](mailto:jakub.bednarczyk@mail.buba.net.pl).
 
 Or open a [GitHub issue](https://github.com/buba0/Install-CUCM14-on-proxmox/issues).
 
